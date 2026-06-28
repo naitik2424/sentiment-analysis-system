@@ -1,6 +1,11 @@
 # 🧠 AI Sentiment Analysis Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentiment-analysis-systemgit-yknvpbdteqmly9msyiqkpc.streamlit.app/)
+
 ![App Banner](https://images.unsplash.com/photo-1507146426996-ef05306b995a?q=80&w=1000&auto=format&fit=crop)
+
+**🚀 Live Demo:** [Click here to try the web app!](https://sentiment-analysis-systemgit-yknvpbdteqmly9msyiqkpc.streamlit.app/)
+
 
 A versatile sentiment analysis dashboard that allows users to process text in real-time or upload bulk CSV files for automated processing and visualization.
 
